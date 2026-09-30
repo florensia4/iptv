@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Orhan IPTV</string>
+    <string name="nav_channels">Channels</string>
+    <string name="nav_epg">TV Guide</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Playlists</string>
+    <string name="search_hint">Search channels or programs…</string>
+    <string name="all_channels">All Channels</string>
+    <string name="categories">Categories</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="login_title">Add IPTV Account</string>
+    <string name="login_xtream">Xtream Codes API</string>
+    <string name="login_m3u">M3U Playlist URL</string>
+    <string name="server_url">Server URL (e.g. http://server.com:8080)</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="m3u_url">M3U URL</string>
+    <string name="epg_url">EPG / XMLTV URL (Optional)</string>
+    <string name="connect">Connect &amp; Load</string>
+    <string name="demo_playlist">Load Demo Channels</string>
+    <string name="no_channels">No channels found</string>
+    <string name="channel_error">Unable to play stream</string>
+    <string name="retry">Retry</string>
+    <string name="audio_tracks">Audio Tracks</string>
+    <string name="subtitle_tracks">Subtitles</string>
+    <string name="aspect_ratio">Aspect Ratio</string>
+    <string name="fit">Fit</string>
+    <string name="fill">Fill / Crop</string>
+    <string name="stretch">Stretch</string>
+    <string name="account_info">Account Info</string>
+    <string name="status">Status</string>
+    <string name="expires">Expires</string>
+    <string name="logout">Switch Account</string>
+</resources>
